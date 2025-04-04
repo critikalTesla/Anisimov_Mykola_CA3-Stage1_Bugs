@@ -32,4 +32,4 @@ public:
     int getAliveBugCount() const;
 };
 
-#endif // BOARD_H
+#endif
