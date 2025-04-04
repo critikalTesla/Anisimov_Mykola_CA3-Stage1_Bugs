@@ -4,8 +4,8 @@
 #include <iostream>
 
 struct Position {
-    int x;
-    int y;
+    int x;  //x location
+    int y;  //y location
     
     bool operator==(const Position& other) const {
         return x == other.x && y == other.y;
