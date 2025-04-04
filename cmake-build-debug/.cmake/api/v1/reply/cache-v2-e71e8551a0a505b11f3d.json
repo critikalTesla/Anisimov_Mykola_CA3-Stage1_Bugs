@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Critikal Land/University/C++/CPP_GD2_CA3_Mykola_Anisimov_BUG/cmake-build-debug"
+			"value" : "c:/Critikal Land/University/C++/CPP_GD2_CA3_Mykola_Anisimov_BUG/CPP_GD2_CA3_Mykola_Anisimov_BUG/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Critikal Land/University/C++/CPP_GD2_CA3_Mykola_Anisimov_BUG/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Critikal Land/University/C++/CPP_GD2_CA3_Mykola_Anisimov_BUG/CPP_GD2_CA3_Mykola_Anisimov_BUG/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Critikal Land/University/C++/CPP_GD2_CA3_Mykola_Anisimov_BUG"
+			"value" : "C:/Critikal Land/University/C++/CPP_GD2_CA3_Mykola_Anisimov_BUG/CPP_GD2_CA3_Mykola_Anisimov_BUG"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -687,7 +687,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/ninja/win/x64/ninja.exe"
+			"value" : "C:/Program Files/JetBrains/CLion 2024.3.2/bin/ninja/win/x64/ninja.exe"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",
@@ -1279,7 +1279,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Critikal Land/University/C++/CPP_GD2_CA3_Mykola_Anisimov_BUG/cmake-build-debug"
+			"value" : "C:/Critikal Land/University/C++/CPP_GD2_CA3_Mykola_Anisimov_BUG/CPP_GD2_CA3_Mykola_Anisimov_BUG/cmake-build-debug"
 		},
 		{
 			"name" : "CPP_GD2_CA3_Mykola_Anisimov_BUG_IS_TOP_LEVEL",
@@ -1303,7 +1303,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Critikal Land/University/C++/CPP_GD2_CA3_Mykola_Anisimov_BUG"
+			"value" : "C:/Critikal Land/University/C++/CPP_GD2_CA3_Mykola_Anisimov_BUG/CPP_GD2_CA3_Mykola_Anisimov_BUG"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
