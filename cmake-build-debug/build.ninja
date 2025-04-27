@@ -79,6 +79,18 @@ build CMakeFiles/CPP_GD2_CA3_Mykola_Anisimov_BUG.dir/src/BUG.cpp.obj: CXX_COMPIL
   OBJECT_DIR = CMakeFiles\CPP_GD2_CA3_Mykola_Anisimov_BUG.dir
   OBJECT_FILE_DIR = CMakeFiles\CPP_GD2_CA3_Mykola_Anisimov_BUG.dir\src
 
+build CMakeFiles/CPP_GD2_CA3_Mykola_Anisimov_BUG.dir/src/HOPPER.cpp.obj: CXX_COMPILER__CPP_GD2_CA3_Mykola_Anisimov_BUG_unscanned_Debug C$:/Critikal$ Land/University/C++/CPP_GD2_CA3_Mykola_Anisimov_BUG/Anisimov_Mykola_CA3-Stage1_Bugs/src/HOPPER.cpp || cmake_object_order_depends_target_CPP_GD2_CA3_Mykola_Anisimov_BUG
+  DEP_FILE = CMakeFiles\CPP_GD2_CA3_Mykola_Anisimov_BUG.dir\src\HOPPER.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CPP_GD2_CA3_Mykola_Anisimov_BUG.dir
+  OBJECT_FILE_DIR = CMakeFiles\CPP_GD2_CA3_Mykola_Anisimov_BUG.dir\src
+
+build CMakeFiles/CPP_GD2_CA3_Mykola_Anisimov_BUG.dir/src/ROLLER.cpp.obj: CXX_COMPILER__CPP_GD2_CA3_Mykola_Anisimov_BUG_unscanned_Debug C$:/Critikal$ Land/University/C++/CPP_GD2_CA3_Mykola_Anisimov_BUG/Anisimov_Mykola_CA3-Stage1_Bugs/src/ROLLER.cpp || cmake_object_order_depends_target_CPP_GD2_CA3_Mykola_Anisimov_BUG
+  DEP_FILE = CMakeFiles\CPP_GD2_CA3_Mykola_Anisimov_BUG.dir\src\ROLLER.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CPP_GD2_CA3_Mykola_Anisimov_BUG.dir
+  OBJECT_FILE_DIR = CMakeFiles\CPP_GD2_CA3_Mykola_Anisimov_BUG.dir\src
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target CPP_GD2_CA3_Mykola_Anisimov_BUG
@@ -87,7 +99,7 @@ build CMakeFiles/CPP_GD2_CA3_Mykola_Anisimov_BUG.dir/src/BUG.cpp.obj: CXX_COMPIL
 #############################################
 # Link the executable CPP_GD2_CA3_Mykola_Anisimov_BUG.exe
 
-build CPP_GD2_CA3_Mykola_Anisimov_BUG.exe: CXX_EXECUTABLE_LINKER__CPP_GD2_CA3_Mykola_Anisimov_BUG_Debug CMakeFiles/CPP_GD2_CA3_Mykola_Anisimov_BUG.dir/src/main.cpp.obj CMakeFiles/CPP_GD2_CA3_Mykola_Anisimov_BUG.dir/src/Position.cpp.obj CMakeFiles/CPP_GD2_CA3_Mykola_Anisimov_BUG.dir/src/Crawler.cpp.obj CMakeFiles/CPP_GD2_CA3_Mykola_Anisimov_BUG.dir/src/Board.cpp.obj CMakeFiles/CPP_GD2_CA3_Mykola_Anisimov_BUG.dir/src/BUG.cpp.obj
+build CPP_GD2_CA3_Mykola_Anisimov_BUG.exe: CXX_EXECUTABLE_LINKER__CPP_GD2_CA3_Mykola_Anisimov_BUG_Debug CMakeFiles/CPP_GD2_CA3_Mykola_Anisimov_BUG.dir/src/main.cpp.obj CMakeFiles/CPP_GD2_CA3_Mykola_Anisimov_BUG.dir/src/Position.cpp.obj CMakeFiles/CPP_GD2_CA3_Mykola_Anisimov_BUG.dir/src/Crawler.cpp.obj CMakeFiles/CPP_GD2_CA3_Mykola_Anisimov_BUG.dir/src/Board.cpp.obj CMakeFiles/CPP_GD2_CA3_Mykola_Anisimov_BUG.dir/src/BUG.cpp.obj CMakeFiles/CPP_GD2_CA3_Mykola_Anisimov_BUG.dir/src/HOPPER.cpp.obj CMakeFiles/CPP_GD2_CA3_Mykola_Anisimov_BUG.dir/src/ROLLER.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\CPP_GD2_CA3_Mykola_Anisimov_BUG.dir

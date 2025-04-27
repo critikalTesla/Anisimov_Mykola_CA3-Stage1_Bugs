@@ -12,4 +12,8 @@ add_executable(CPP_GD2_CA3_Mykola_Anisimov_BUG src/main.cpp
         src/Board.h
         src/BUG.h
         src/BUG.cpp
-        src/BUG.h)
+        src/BUG.h
+        src/HOPPER.cpp
+        src/HOPPER.h
+        src/ROLLER.cpp
+        src/ROLLER.h)
