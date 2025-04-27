@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Critikal Land/University/C++/CPP_GD2_CA3_Mykola_Anisimov_BUG/CPP_GD2_CA3_Mykola_Anisimov_BUG/cmake-build-debug"
+			"value" : "c:/Critikal Land/University/C++/CPP_GD2_CA3_Mykola_Anisimov_BUG/Anisimov_Mykola_CA3-Stage1_Bugs/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Critikal Land/University/C++/CPP_GD2_CA3_Mykola_Anisimov_BUG/CPP_GD2_CA3_Mykola_Anisimov_BUG/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Critikal Land/University/C++/CPP_GD2_CA3_Mykola_Anisimov_BUG/Anisimov_Mykola_CA3-Stage1_Bugs/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Critikal Land/University/C++/CPP_GD2_CA3_Mykola_Anisimov_BUG/CPP_GD2_CA3_Mykola_Anisimov_BUG"
+			"value" : "C:/Critikal Land/University/C++/CPP_GD2_CA3_Mykola_Anisimov_BUG/Anisimov_Mykola_CA3-Stage1_Bugs"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1279,7 +1279,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Critikal Land/University/C++/CPP_GD2_CA3_Mykola_Anisimov_BUG/CPP_GD2_CA3_Mykola_Anisimov_BUG/cmake-build-debug"
+			"value" : "C:/Critikal Land/University/C++/CPP_GD2_CA3_Mykola_Anisimov_BUG/Anisimov_Mykola_CA3-Stage1_Bugs/cmake-build-debug"
 		},
 		{
 			"name" : "CPP_GD2_CA3_Mykola_Anisimov_BUG_IS_TOP_LEVEL",
@@ -1303,7 +1303,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Critikal Land/University/C++/CPP_GD2_CA3_Mykola_Anisimov_BUG/CPP_GD2_CA3_Mykola_Anisimov_BUG"
+			"value" : "C:/Critikal Land/University/C++/CPP_GD2_CA3_Mykola_Anisimov_BUG/Anisimov_Mykola_CA3-Stage1_Bugs"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",

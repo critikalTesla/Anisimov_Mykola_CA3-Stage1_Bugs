@@ -1,4 +1,4 @@
-# Install script for directory: C:/Critikal Land/University/C++/CPP_GD2_CA3_Mykola_Anisimov_BUG/CPP_GD2_CA3_Mykola_Anisimov_BUG
+# Install script for directory: C:/Critikal Land/University/C++/CPP_GD2_CA3_Mykola_Anisimov_BUG/Anisimov_Mykola_CA3-Stage1_Bugs
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -52,6 +52,6 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-  file(WRITE "C:/Critikal Land/University/C++/CPP_GD2_CA3_Mykola_Anisimov_BUG/CPP_GD2_CA3_Mykola_Anisimov_BUG/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "C:/Critikal Land/University/C++/CPP_GD2_CA3_Mykola_Anisimov_BUG/Anisimov_Mykola_CA3-Stage1_Bugs/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

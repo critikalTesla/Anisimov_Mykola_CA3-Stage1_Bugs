@@ -1,3 +1,3 @@
-C:/Critikal Land/University/C++/CPP_GD2_CA3_Mykola_Anisimov_BUG/CPP_GD2_CA3_Mykola_Anisimov_BUG/cmake-build-debug/CMakeFiles/CPP_GD2_CA3_Mykola_Anisimov_BUG.dir
-C:/Critikal Land/University/C++/CPP_GD2_CA3_Mykola_Anisimov_BUG/CPP_GD2_CA3_Mykola_Anisimov_BUG/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Critikal Land/University/C++/CPP_GD2_CA3_Mykola_Anisimov_BUG/CPP_GD2_CA3_Mykola_Anisimov_BUG/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Critikal Land/University/C++/CPP_GD2_CA3_Mykola_Anisimov_BUG/Anisimov_Mykola_CA3-Stage1_Bugs/cmake-build-debug/CMakeFiles/CPP_GD2_CA3_Mykola_Anisimov_BUG.dir
+C:/Critikal Land/University/C++/CPP_GD2_CA3_Mykola_Anisimov_BUG/Anisimov_Mykola_CA3-Stage1_Bugs/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Critikal Land/University/C++/CPP_GD2_CA3_Mykola_Anisimov_BUG/Anisimov_Mykola_CA3-Stage1_Bugs/cmake-build-debug/CMakeFiles/rebuild_cache.dir

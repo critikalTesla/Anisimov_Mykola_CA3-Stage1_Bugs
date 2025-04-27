@@ -1,12 +1,12 @@
 # ninja log v6
-2	219	7654646072185677	build.ninja	21d4b54babcf7ec0
-7	569	7654623144924459	CMakeFiles/CPP_GD2_CA3_Mykola_Anisimov_BUG.dir/src/Crawler.cpp.obj	dbf646519a98e9f0
-1480	1613	7654623159655387	CPP_GD2_CA3_Mykola_Anisimov_BUG.exe	fbfcb2da8ae49aa7
-5	443	7654623144900824	CMakeFiles/CPP_GD2_CA3_Mykola_Anisimov_BUG.dir/src/Position.cpp.obj	5df1f8fe1aa8c03c
-2	637	7654623144870808	CMakeFiles/CPP_GD2_CA3_Mykola_Anisimov_BUG.dir/src/main.cpp.obj	c4194a847d25b74d
-11	1480	7654623144957278	CMakeFiles/CPP_GD2_CA3_Mykola_Anisimov_BUG.dir/src/Board.cpp.obj	16499554a99a00bd
-8	350	7654646109255820	CMakeFiles/CPP_GD2_CA3_Mykola_Anisimov_BUG.dir/src/Position.cpp.obj	5daf30bcb959dbe6
+2	219	7657353779388224	build.ninja	21d4b54babcf7ec0
 14	468	7654646109306502	CMakeFiles/CPP_GD2_CA3_Mykola_Anisimov_BUG.dir/src/Crawler.cpp.obj	f40ff6f971e9234f
+1261	1381	7654646121774672	CPP_GD2_CA3_Mykola_Anisimov_BUG.exe	fbfcb2da8ae49aa7
+8	350	7654646109255820	CMakeFiles/CPP_GD2_CA3_Mykola_Anisimov_BUG.dir/src/Position.cpp.obj	5daf30bcb959dbe6
 5	505	7654646109215818	CMakeFiles/CPP_GD2_CA3_Mykola_Anisimov_BUG.dir/src/main.cpp.obj	a4c3aa10bb713c21
 18	1261	7654646109347355	CMakeFiles/CPP_GD2_CA3_Mykola_Anisimov_BUG.dir/src/Board.cpp.obj	792a14bdda3df1ec
-1261	1381	7654646121774672	CPP_GD2_CA3_Mykola_Anisimov_BUG.exe	fbfcb2da8ae49aa7
+10	501	7657353806211882	CMakeFiles/CPP_GD2_CA3_Mykola_Anisimov_BUG.dir/src/Position.cpp.obj	d8c35d4ea7417e38
+14	679	7657353806246966	CMakeFiles/CPP_GD2_CA3_Mykola_Anisimov_BUG.dir/src/Crawler.cpp.obj	ee550b42052dfa76
+6	718	7657353806171570	CMakeFiles/CPP_GD2_CA3_Mykola_Anisimov_BUG.dir/src/main.cpp.obj	901d65c9c536854
+17	2056	7657353806286969	CMakeFiles/CPP_GD2_CA3_Mykola_Anisimov_BUG.dir/src/Board.cpp.obj	dbeed21b3b998bec
+2057	2223	7657353826676477	CPP_GD2_CA3_Mykola_Anisimov_BUG.exe	fbfcb2da8ae49aa7
