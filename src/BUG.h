@@ -33,7 +33,7 @@ public:
     void setAlive(bool status);
 
 
-    virtual void move() = 0; 
+    virtual void move() = 0;
     virtual bool isWayBlocked() const;
     virtual std::string getType() const = 0;
     virtual std::string toString() const;
