@@ -9,4 +9,7 @@ add_executable(CPP_GD2_CA3_Mykola_Anisimov_BUG src/main.cpp
         src/Crawler.cpp
         src/Crawler.h
         src/Board.cpp
-        src/Board.h)
+        src/Board.h
+        src/BUG.h
+        src/BUG.cpp
+        src/BUG.h)
