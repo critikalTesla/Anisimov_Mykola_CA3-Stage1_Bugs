@@ -5,12 +5,12 @@
 void displayMenu() {
     std::cout << "\nBug's Life Simulation Menu:" << std::endl;
     std::cout << "1. Initialize Bug Board (load data from file)" << std::endl;
-    std::cout << "2. Display all 'Bugs'" << std::endl;
-    std::cout << "3. Find a 'Bug' (by id)" << std::endl;
+    std::cout << "2. Display all Bugs" << std::endl;
+    std::cout << "3. Find a Bug (by id)" << std::endl;
     std::cout << "4. Tap the Bug Board (cause all to move, then fight/eat)" << std::endl;
-    std::cout << "5. Display Life History of all 'Bugs' path" << std::endl;
-    std::cout << "6. Display all Cells listing their 'Bugs'" << std::endl;
-    std::cout << "7. Run simulation " << std::endl;
+    std::cout << "5. Display Life History of all Bugs" << std::endl;
+    std::cout << "6. Display all Cells listing their Bugs" << std::endl;
+    std::cout << "7. Run simulation" << std::endl;
     std::cout << "8. Exit" << std::endl;
     std::cout << "Enter your choice (1-8): ";
 }
@@ -20,6 +20,7 @@ int getIntegerInput(const std::string& prompt) {
     while (true) {
         std::cout << prompt;
         if (std::cin >> value) {
+            std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
             break;
         } else {
             std::cout << "Invalid input. Please enter an integer." << std::endl;
@@ -41,7 +42,7 @@ int main() {
 
         switch (choice) {
             case 1: {
-                std::string filename = "crawler-bugs.csv";
+                std::string filename = "bugs.txt";
                 bugBoard.initializeBugBoard(filename);
                 break;
             }
