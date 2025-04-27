@@ -1,16 +1,15 @@
 #ifndef BOARD_H
 #define BOARD_H
 
-#include "Crawler.h"
+#include "Bug.h"
 #include <vector>
 #include <string>
 #include <map>
-#include <fstream>
 
 class Board {
 private:
-    std::vector<Crawler*> crawlers;
-    std::map<std::pair<int, int>, std::vector<Crawler*>> cellOccupancy;
+    std::vector<Bug*> bugs;
+    std::map<std::pair<int, int>, std::vector<Bug*>> cellOccupancy;
     
     void updateCellOccupancy();
     void fightInCell(std::pair<int, int> cellPosition);
