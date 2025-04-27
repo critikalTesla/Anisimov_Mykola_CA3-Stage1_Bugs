@@ -4,7 +4,7 @@
 
 Crawler::Crawler(int id, int x, int y, Direction direction, int size)
     : Bug(id, x, y, direction, size) {
-    srand(time(0)); // Initialize random seed
+    srand(time(0));
 }
 
 void Crawler::move() {

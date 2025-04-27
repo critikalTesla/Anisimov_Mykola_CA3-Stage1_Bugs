@@ -2,7 +2,7 @@
 #include <cstdlib>
 #include <ctime>
 
-Roller::Roller(int id, int x  int x, int y, Direction direction, int size) 
+Roller::Roller(int id,  int x, int y, Direction direction, int size)
     : Bug(id, x, y, direction, size) {
     srand(time(0)); // Initialize random seed
 }

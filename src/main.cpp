@@ -42,7 +42,7 @@ int main() {
 
         switch (choice) {
             case 1: {
-                std::string filename = "bugs.txt";
+                std::string filename = "bugs.csv";
                 bugBoard.initializeBugBoard(filename);
                 break;
             }

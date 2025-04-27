@@ -12,7 +12,7 @@
 #include <iomanip>
 
 Board::Board() {
-    srand(time(0));
+    srand(time(0)); //random generator
 }
 
 Board::~Board() {
@@ -21,7 +21,7 @@ Board::~Board() {
     }
 }
 
-void Board::initializeBugBoard(const std::string& filename) {
+void Board::initializeBugBoard(const std::string& filename) { //Initialize the board
     std::ifstream file(filename);
     if (!file.is_open()) {
         std::cerr << "Error opening file: " << filename << std::endl;
@@ -30,7 +30,7 @@ void Board::initializeBugBoard(const std::string& filename) {
 
     bugs.clear(); // Clear existing bugs
     std::string line;
-    while (getline(file, line)) {
+    while (getline(file, line)) { //reading data from file
         std::istringstream iss(line);
         char type;
         int id, x, y, dir, size, hopLength = 0;
@@ -71,7 +71,7 @@ void Board::displayAllBugs() const {
     std::cout << "----------------------------------------" << std::endl;
 }
 
-void Board::findBug(int id) const {
+void Board::findBug(int id) const { //method for finding the bug
     auto it = std::find_if(bugs.begin(), bugs.end(),
         [id](const Bug* bug) { return bug->getId() == id; });
 
@@ -83,7 +83,7 @@ void Board::findBug(int id) const {
     }
 }
 
-void Board::tapBugBoard() {
+void Board::tapBugBoard() { //make 1 iteration
     if (bugs.empty()) {
         std::cout << "No bugs on the board. Please initialize the board first." << std::endl;
         return;
@@ -97,7 +97,7 @@ void Board::tapBugBoard() {
 
     updateCellOccupancy();
 
-    for (auto& cell : cellOccupancy) {
+    for (auto& cell : cellOccupancy) { //map
         if (cell.second.size() > 1) {
             fightInCell(cell.first);
         }
@@ -118,12 +118,12 @@ void Board::updateCellOccupancy() {
 }
 
 void Board::fightInCell(std::pair<int, int> cellPosition) {
-    auto& bugsInCell = cellOccupancy[cellPosition];
+    auto& bugsInCell = cellOccupancy[cellPosition]; //check and apply cell occupancy
 
     std::sort(bugsInCell.begin(), bugsInCell.end(),
-        [](const Bug* a, const Bug* b) { return a->getSize() > b->getSize(); });
+        [](const Bug* a, const Bug* b) { return a->getSize() > b->getSize(); }); //sorting bugs in cell
 
-    int maxSize = bugsInCell[0]->getSize();
+    int maxSize = bugsInCell[0]->getSize(); //choosing winner by size
     std::vector<Bug*> winners;
 
     for (Bug* bug : bugsInCell) {
